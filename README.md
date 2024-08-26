@@ -8,7 +8,7 @@
 
 - 🌍  I'm based in Florencia - Caqueta
 - ✉️  You can contact me at [kevin.chaux3@gmail.com](mailto:kevin.chaux3@gmail.com)
-- 🧠  I’m currently learning AWS ☁️
+- 🧠  I’m currently learning .NET
 - ⚡  I really like practicing IoT
 
 ## **Socials**
