@@ -1,18 +1,11 @@
 <div align="center">
-    <h1>¡Hola! Soy Kevin Chaux Sandino 👋</h1>
-    <h3>Ingeniero de Sistemas | Fullstack & Embedded/IoT Developer</h3>
-    <p>Construyendo soluciones escalables e integraciones de hardware con un enfoque en la eficiencia y la arquitectura modular.</p>
+  <h1>¡Hola! Soy Kevin Chaux Sandino 👋</h1>
+  <h3>Ingeniero de Sistemas | Fullstack & Embedded/IoT Developer</h3>
+  <p>Construyendo soluciones escalables e integraciones de hardware con un enfoque en la eficiencia y la arquitectura modular.</p>
   
   <br />
 
-  <a href="https://www.linkedin.com/in/kevin-chaux-sandino-6708a9227" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a> 
-  <a href="mailto:kevin.chaux3@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail" width="40px" />
-  </a> 
-  
- 
+  <a href="https://www.linkedin.com/in/kevin-chaux-sandino-6708a9227" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:kevin.chaux3@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="32" height="32" alt="Gmail" /></a>
 </div>
 
 <br />
