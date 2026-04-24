@@ -4,8 +4,10 @@
   <p>Construyendo soluciones escalables e integraciones de hardware con un enfoque en la eficiencia y la arquitectura modular.</p>
   
   <br />
-
-  <a href="https://www.linkedin.com/in/kevin-chaux-sandino-6708a9227" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:kevin.chaux3@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="32" height="32" alt="Gmail" /></a>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kevin-chaux-sandino-6708a9227" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:kevin.chaux3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  </p>
 </div>
 
 <br />
