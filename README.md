@@ -47,7 +47,7 @@ Especializado en una amplia variedad de herramientas para cubrir todo el ciclo d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,dotnet,prisma,postgres,mongodb,redis" alt="Backend y Bases de Datos" />
+    <img src="https://skillicons.dev/icons?i=nestjs,dotnet,prisma,postgres,sqlite,mongodb,redis" alt="Backend y Bases de Datos" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@ Especializado en una amplia variedad de herramientas para cubrir todo el ciclo d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare,git,jest,postman,notion" alt="DevOps y Herramientas" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,cloudflare,git,githubactions,jest,postman,notion" alt="DevOps y Herramientas" />
   </a>
 </p>
 
