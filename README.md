@@ -31,7 +31,7 @@ Especializado en una amplia variedad de herramientas para cubrir todo el ciclo d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,cpp,py,nodejs,java,rust,bash" alt="Lenguajes de Programación" />
+    <img src="https://skillicons.dev/icons?i=ts,cpp,cs,py,nodejs,java,bash" alt="Lenguajes de Programación" />
   </a>
 </p>
 
